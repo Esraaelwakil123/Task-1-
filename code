@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+</head>
+
+<body>
+
+
+    <h1>Hello,I’m Esraa !</h1>
+    <p>
+    <h4> I am a student learning web development , and I love programming . This is my simple personal page to showcase
+        some details about me </h4>
+    </p>
+    <img src="./assets/image/esraa.jpg " width="200 " height="150">
+
+
+
+    <h2> my personal information </h2>
+    <table border="1">
+        <tr>
+            <th>Information</th>
+            <th>Details </th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Esraa Elwakil</td>
+        </tr>
+        <tr>
+            <td>Age</td>
+            <td>21 Years old </td>
+        </tr>
+        <tr>
+            <td>Hobbies</td>
+            <td>Programming , Reading , Drawing </td>
+        </tr>
+        <tr>
+            <td>Occupation</td>
+            <td>university student </td>
+        </tr>
+
+    </table>
+
+</body>
+
+</html>
