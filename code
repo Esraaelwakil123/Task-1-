@@ -2,12 +2,17 @@
 <html>
 
 <head>
-
+ <style>
+        div {
+            width: 400px;
+            margin: auto;
+        }
+    </style>
 </head>
 
 <body>
 
-
+ <div>
     <h1>Hello,I’m Esraa !</h1>
     <p>
     <h4> I am a student learning web development , and I love programming . This is my simple personal page to showcase
@@ -41,7 +46,7 @@
         </tr>
 
     </table>
-
+ </div>
 </body>
 
 </html>
